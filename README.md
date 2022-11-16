@@ -1,7 +1,7 @@
 # Tic tac toe 
 
 I created this game as a way to test my understanding of what
-I learned from the [reactjs.org](reactjs.org) website.
+I learned from the [reactjs.org](https://reactjs.org/) website.
 
 **Current game features**
 
