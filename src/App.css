@@ -41,3 +41,7 @@ body {
 	text-align: center;
 	width:100px;
 }
+
+ol, ul {
+	padding-left: 30px;
+}
